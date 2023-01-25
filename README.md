@@ -1,2 +1,1 @@
-# chinese_character_recognition
-A DL model recognizing Chinese characters.
+A small project done as a recruitment task. Achieved an accuracy of 71% with a small convolutional NN with some additional preprocessing.
